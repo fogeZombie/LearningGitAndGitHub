@@ -4,3 +4,4 @@ The only reason this file exists is to give me a chance to test out some Git com
 Richard Foge - June 18, 2014
 
 Update
+Text editor test.

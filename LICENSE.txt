@@ -1,0 +1,1 @@
+This is the pretend license file for the pretend project that I am using to learn how to use Git.
